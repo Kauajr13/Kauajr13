@@ -1,14 +1,14 @@
-### Olá! Eu sou Kauã Soares 👋
+### Hello! I'm Kauã Soares 👋
 
-🎓 **Ciência da Computação @ UNESP**
-🚀 Focado em **Desenvolvimento Full Stack** e **Segurança da Informação**.
-🐧 Entusiasta de **Linux** e Automação.
+🎓 **Computer Science Undergraduate @ UNESP**
+🚀 Focused on **Full Stack Development** and **Cybersecurity**.
+🐧 **Linux** and Automation Enthusiast.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 
-**Linguagens:**
+**Languages:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,12 +24,11 @@
 
 ---
 
-### 🏆 Destaques
+### 🏆 Highlights
 
-* **Herói do Ano 2024** na Pro Junior Consultoria (Empresa Júnior UNESP).
-* Experiência em liderança técnica e migração de processos para **Scrum**.
-* Desenvolvimento de soluções em **Visão Computacional** e **IoT**.
+* **Hero of the Year 2024** at Pro Junior Consultoria (Junior Enterprise).
+* Experience in technical leadership and migrating agile processes to **Scrum**.
 
 ---
 
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/kaua-jrss13/) | [Email](mailto:kauajrss13@gmail.com)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/kaua-jrss13/) | [Email](mailto:kauajrss13@gmail.com)
